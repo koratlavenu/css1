@@ -1,0 +1,39 @@
+*
+.container{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    position: fixed;
+}
+body{
+    background-color:rosybrown;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    position: absolute;
+}
+.home{
+    background: red;
+    text-align: center;
+    position: fixed;
+    top: 0%;
+}
+.home ul{
+    display: inline-flex;
+    list-style: none;
+}
+.home ul li{
+    width: 250px;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    top: 0%;
+}
+.home ul li a{
+    text-decoration: none;
+    color: black;
+}
+.p{
+    text-decoration: color(srgb rgb(207, 50, 50) green blue);
+    text-align: 200px;
+}
